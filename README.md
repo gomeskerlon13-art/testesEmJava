@@ -13,5 +13,15 @@ os conceitos iniciais da linguagem.
 * Construção de interface gráfica (telas, botões e campos de texto).
 * Manipulação e tratamento de eventos de clique.
 
+## TestesRegex
+
+Este segundo projeto desenvolvido trata-se de um estudo que fiz sobre expressões regulares e como usá-las. Aí está apenas o básico do assunto. Não há encapsulamento
+nem criptografia de senhas pois tais fatores não estavam sendo estudados por ora.
+
+### Funcionalidades Estudadas:
+* Uso de expressões regulares.
+* Testes lógicos com .matches() e condicionais.
+* Manipulação e tratamento de eventos de clique.
+
 ---
-*Nota de rodapé: Este código serve como registro da minha evolução nos estudos de programação.*
+*Nota de rodapé: Estes projetos servem apenas como registro da minha evolução nos estudos de programação e não devem ser usados para sistemas funcionais.*
